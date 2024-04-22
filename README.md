@@ -1,6 +1,6 @@
 
 # Spend Analytics Project Overview
-Dashboard Link : https://app.powerbi.com/view?r=eyJrIjoiZmFiNzk1NjEtNjNiZi00OTNmLWE0MTItZmI5YzJiNDQzMTMwIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9
+## [Dashboard Link](https://app.powerbi.com/view?r=eyJrIjoiZmFiNzk1NjEtNjNiZi00OTNmLWE0MTItZmI5YzJiNDQzMTMwIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9)
 ## Introduction
 The Spend Analytics project was designed to dissect and understand the organization's expenditure across various vendors, categories, and locations using advanced analytics methodologies. Through detailed data analysis, the initiative aimed to uncover inefficiencies, optimize spending, and enhance the overall procurement strategy.
 
